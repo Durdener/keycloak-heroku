@@ -34,7 +34,7 @@
     },
     "addons": [
         {
-            "plan": "heroku-postgresql:free"
+            "plan": "heroku-postgresql:hobby-dev"
         }
     ]
 }
